@@ -150,15 +150,18 @@ Onde a chave é o nome da tarefa e o valor indica se está concluída (True) ou 
 
 - Exportar/importar listas de tarefas em formatos diferentes (CSV ou Excel).
 
-## Licença
-
-Este projeto está licenciado sob os termos da Licença MIT. Você é livre para usar, modificar e distribuir este software, desde que mantenha os créditos ao autor original.
-
 ## Capturas de Tela
 
-| ![image](https://github.com/user-attachments/assets/1e73acf4-31ea-48b3-b3b2-165bb49c9e65) | ![image](https://github.com/user-attachments/assets/1f6e29b3-456a-479a-8e1f-026dfb26a97e) |
-|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/620ae486-7ede-4cd2-a325-4d1a89832afd) | ![image](https://github.com/user-attachments/assets/15bff5a3-5ab2-4779-b114-74e522c184b5) |
+<div style="display: inline_block">
+  <img src="https://github.com/user-attachments/assets/1e73acf4-31ea-48b3-b3b2-165bb49c9e65" width="200px"> 
+  <img src="https://github.com/user-attachments/assets/1f6e29b3-456a-479a-8e1f-026dfb26a97e" width="200px">
+  <img src="https://github.com/user-attachments/assets/620ae486-7ede-4cd2-a325-4d1a89832afd" width="200px"> 
+  <img src="https://github.com/user-attachments/assets/15bff5a3-5ab2-4779-b114-74e522c184b5" width="200px">
+</div>
 
+## Licença
+Este projeto está licenciado sob os termos da Licença MIT. Você é livre para usar, modificar e distribuir este software, desde que mantenha os créditos ao autor original.
+
+<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 
