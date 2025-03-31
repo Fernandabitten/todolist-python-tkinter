@@ -1,1 +1,7 @@
-{}
+{
+    "Estudar Python": true,
+    "Estudar Tkinter": true,
+    "Ir Ao Supermercado": false,
+    "Levar O Cachorro Pra Passear": false,
+    "Fazer Faxina": false
+}
