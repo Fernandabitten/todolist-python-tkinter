@@ -136,7 +136,7 @@ Se você deseja gerar um executável para outro sistema (Windows, macOS ou Linux
 
 ```
 {
-    ""Estudar Python": True
+    "Estudar Python": True
 }
 ```
 
